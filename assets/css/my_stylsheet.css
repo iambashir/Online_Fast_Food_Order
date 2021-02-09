@@ -1,0 +1,65 @@
+div.background {
+    
+    border: 1px solid black;
+  }
+div.transbox {
+    margin: auto;
+    height: auto;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 0.7;
+  }
+div.front-writing {
+  padding: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+  }
+.carousel-inner img {
+    width: 100%;
+    height: 300px;
+  }
+.nav-link:hover {
+  background-color: #424446;
+  color: #1717da;
+}
+  #main_div{text-align: center; background-color: #dbdddf; padding-top: 30px;}
+
+  /* Card design start*/
+  .main-card-div{display:inline-block; padding: 35px; }
+  .card{width:280px; height: 420px; box-shadow: 0 8px 8px 0 #00000033, 0 6px 20px 0 #00000030;}
+  .card-img-top{height: 220px; width:278px;}
+  .card-body{background-color: #ebe6e3;}
+  .card-title{color: #63493d;}
+  .del{color: red;}
+  .Order{
+    background-color: #a8a8a8;
+    border: none;
+    color: black;
+    text-align: center;
+    /* margin: 4px 2px; */
+    transition: 0.3s;
+  }
+  
+  .Order:hover {
+    background-color: #696c6d;
+    color: white;
+  }
+  .details{    background-color:  #a8a8a8;
+    border: none;
+    color: black;
+    text-align: center;
+    /* margin: 4px 2px; */
+    transition: 0.3s;
+  }
+  .details:hover {
+    background-color: #696c6d;
+    color: white;
+  }
+   /* Card design end*/
+
+   .lists{color: #d4f0f0;}
+   .lists:hover {
+    /* background-color: #e8eef0; */
+    color: #59b3be;
+  }
