@@ -1,3 +1,21 @@
+
+
+body {
+  background: url(../../images/app/bg-3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.main_content_div{background: #817f7f99; 
+  /* background-color: #1717da;  (for solid background color)*/
+
+}
+
+
+
 div.background {
     
     border: 1px solid black;
@@ -23,7 +41,7 @@ div.front-writing {
   background-color: #424446;
   color: #1717da;
 }
-  #main_div{text-align: center; background-color: #dbdddf; padding-top: 30px;}
+  #main_div{text-align: center;  padding-top: 30px;}
 
   /* Card design start*/
   .main-card-div{display:inline-block; padding: 35px; }
